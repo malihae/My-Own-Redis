@@ -1,4 +1,5 @@
-# MyRedis Studio
+# MyRedis Studio DEMO 
+![Uploading MyRedisStudioKeysundercontrol.127.0.0.1_3000-MyRedis-Studio-VisualStudioCode2026-09-1518-40-47-ezgif.com-optimize.gif…]()
 
 Your Node.js key-value server, with a retro web workspace. Built for Maliha Ehsan.
 
